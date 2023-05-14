@@ -1,0 +1,3 @@
+from agents.reward_labelling.adder import OptimalTransportAdder
+from agents.reward_labelling.builder import OptimalTransportBuilder
+from agents.reward_labelling.rewarder import OptimalTransportRewarder
